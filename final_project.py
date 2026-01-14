@@ -1,6 +1,4 @@
-#Author: Kevin Hennet 
-#Email: khennet@umass.edu 
-#Spire ID: 35082375
+
 import csv
 import plotly.express as px
 import plotly.graph_objects as go
